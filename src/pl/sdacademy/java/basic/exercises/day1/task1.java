@@ -2,6 +2,7 @@ package pl.sdacademy.java.basic.exercises.day1;
 
 public class task1 {
     public static void main(String[] args) {
+
         displayWorldUsingBinaryFormat();
         System.out.println();
         displayWorldUsingDecimalFormat();
@@ -39,3 +40,9 @@ public class task1 {
         System.out.print(a);
     }
 }
+
+
+
+
+
+
